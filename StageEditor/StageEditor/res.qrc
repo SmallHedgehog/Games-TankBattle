@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/res_win">
+        <file>win_icon.png</file>
+    </qresource>
+    <qresource prefix="/res_app">
+        <file>grass.png</file>
+        <file>normal.png</file>
+        <file>water.png</file>
+        <file>steel.png</file>
+        <file>symbol.png</file>
+        <file>save.png</file>
+        <file>clear.png</file>
+    </qresource>
+</RCC>
