@@ -8,11 +8,11 @@
 
 ## 实现效果图
  - 坦克大战游戏实现效果图
-![坦克大战游戏实现效果图](C:\Users\yangcaifei\Desktop\res\ProjectPictures\5.png)
-![坦克大战游戏实现效果图](C:\Users\yangcaifei\Desktop\res\ProjectPictures\6.png)
+![坦克大战游戏实现效果图](https://github.com/SmallHedgehog/Games-TankBattle/blob/master/result1/5.png)
+![坦克大战游戏实现效果图](https://github.com/SmallHedgehog/Games-TankBattle/blob/master/result1/6.png)
 _ _ _
  - 关卡编辑器实现效果图
-![关卡编辑器效果图](C:\Users\yangcaifei\Desktop\res\ProjectPictures\7.png)
+![关卡编辑器效果图](https://github.com/SmallHedgehog/Games-TankBattle/blob/master/result1/7.png)
 
 ## 文件描述
  - StageEditor：关卡编辑器（Qt5开发）
